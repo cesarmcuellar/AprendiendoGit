@@ -1,2 +1,6 @@
 EJERCICIO DE PRUEBA
 
+Estamos agregando otros documentos para ver las versiones diferentes.
+
+Además se creó el archivo .gitIgnore y se crea un archivo para que sea ignorado en el commit
+
